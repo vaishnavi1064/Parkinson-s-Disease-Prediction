@@ -272,7 +272,7 @@ python parkinsons_prediction.py
 ├── Parkinsons_Prediction.ipynb    # Main notebook with full pipeline
 ├── parkinsons.data                # Dataset (195 voice recordings)
 ├── README.md                      # Project documentation
-└── requirements.txt               # Python dependencies
+└── ParkinsonNames.txt             # Source & attribution
 </code></pre>
 
 <h2>📋 Methodology Highlights</h2>
